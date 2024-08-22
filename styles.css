@@ -1,0 +1,12 @@
+/* Define o estilo do container da imagem */
+.image-container {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Define o estilo das imagens */
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
